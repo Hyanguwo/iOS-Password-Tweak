@@ -1,0 +1,9 @@
+Package: com.yourcompany.123niew
+Name: 123niew
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 宇啊宇
+Author: 宇啊宇
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
