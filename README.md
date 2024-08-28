@@ -1,6 +1,9 @@
 # iOS Password Tweak
 
 一个简单的 iOS Tweak，在设备激活时弹出密码输入框，要求用户输入正确的密码才能进入系统。如果输入错误，会提示“密码错误”，但不会退出程序。这个项目旨在为新手和有经验的开发者提供一个学习和分享的机会。
+# 函数诗的微信账号
+- 一起学习iOS逆向
+- WeChat：hanshushiy
 
 ## 功能
 
@@ -22,7 +25,3 @@
    ```bash
    git clone https://github.com/YuAYUyyy/iOS-Password-Tweak.git
    cd iOS-Password-Tweak
-
-# 函数诗的微信账号
-- 一起学习iOS逆向
-   Wechat🙋hanshushiy
