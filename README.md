@@ -23,12 +23,6 @@
    git clone https://github.com/YuAYUyyy/iOS-Password-Tweak.git
    cd iOS-Password-Tweak
 
-
-
-## 使用theos编译项目
-
--请自行编译不另做详细教程
-
-### 函数诗的微信账号
+# 函数诗的微信账号
 - 一起学习iOS逆向
    Wechat🙋hanshushiy
