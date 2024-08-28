@@ -17,9 +17,7 @@
 - [Theos](https://theos.dev/) 开发环境。
 - SSH 或 Filza 文件管理器，用于将 `.deb` 文件传输到设备。
 
-### 编译和安装步骤
-
-1. **克隆仓库**
+### 克隆仓库
 
    ```bash
    git clone https://github.com/YuAYUyyy/iOS-Password-Tweak.git
